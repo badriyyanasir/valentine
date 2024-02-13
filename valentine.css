@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(253, 208, 239);
+
+}
+
+section{
+    text-align: center;
+    padding-top: 6rem;
+
+}
+img{
+    border: 2px double purple;
+    box-shadow: 3px 3px 5px rgb(151, 45, 80);
+}
+
+article{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    letter-spacing: 0.3rem;
+    color:rgb(161, 16, 115);
+    padding-top: 0.5rem;
+    font-size: 1.5rem;
+}
+
+nav{
+    text-align: center;
+    margin-top: 2rem;
+
+}
+
+nav a{
+    text-decoration: none;
+    margin-left: 1rem;
+ font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.yes{
+    background-color: rgb(15, 189, 15);
+    padding: 1rem;
+    color: #fff;
+    border: 1px solid  purple;
+    border-radius: 5px;
+}
+
+.No{
+    background-color: red;
+    padding: 1rem;
+    color: #fff;
+    border: 1px solid purple;
+    border-radius: 5px;
+}
+
+
+.yay{
+    font-weight: ;
+    font-size: 2rem;
+    font-style: italic;
+    font-family: fantasy;
+}
