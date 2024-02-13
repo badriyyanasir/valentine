@@ -41,6 +41,10 @@ nav a{
  font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+nav a:hover{
+    background-color: rgb(238, 208, 223);
+    color: rgb(39, 2, 39);
+}
 
 .yes{
     background-color: rgb(15, 189, 15);
